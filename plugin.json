@@ -2,7 +2,7 @@
   "ID":"D2D2C23B184D411DB66FE0C79D6C2A6H",   
   "ActionKeyword":"dc",                     
   "Name":"dict",                              
-  "Description":"use dictcn to search",    
+  "Description":"use bing-api to search",    
   "Author":"svtter",                     
   "Version":"1.0.0",                         
   "Language":"python",                       
